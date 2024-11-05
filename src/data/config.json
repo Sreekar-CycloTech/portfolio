@@ -1,0 +1,34 @@
+{
+  "job": "Frontend Developer",
+  "name": "Sreekar Kondaveeti",
+  "desc": "Software engineer in Hyderabad,Telangana.",
+  "aboutDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "email": "sreekar@sreekar.dev",
+  "status": "on",
+  "hireMeLink": "www.sreekar.dev",
+  "projects": [
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "Portfolio",
+      "project-desc": "React + Tailwind "
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaXTwitter",
+      "link": "https://x.com"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://instagram.com"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://linkedin.com"
+    }
+  ]
+}
